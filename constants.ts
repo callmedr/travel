@@ -1383,7 +1383,7 @@ export const CITIES: City[] = [
                 '스톡홀름의 아름다움을 가장 잘 대표하는 풍경을 제공하는 곳으로, 현지인과 관광객 모두에게 사랑받는다.',
             ],
             tip: '경치가 좋은 곳에 벤치가 마련되어 있어 잠시 쉬어가기 좋습니다. 겨울에는 길이 미끄러울 수 있으니 주의해야 합니다.',
-            googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Monteliusvägen',
+            googleMapsUrl: 'https://www.google.com/maps/place/Monteliusv%C3%A4gen',
         },
         {
             id: 'kungstradgarden',

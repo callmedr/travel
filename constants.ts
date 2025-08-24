@@ -523,7 +523,7 @@ export const CITIES: City[] = [
                 '현대적인 도시 오슬로 속에 숨겨진 과거의 모습을 엿볼 수 있는 소중한 공간이다.',
             ],
             tip: '사진 찍기를 좋아한다면 꼭 방문해야 할 곳입니다. 주민들이 실제 거주하는 지역이므로 조용히 둘러보는 에티켓이 필요합니다.',
-            googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Damstredet+Oslo',
+            googleMapsUrl: 'https://www.google.com/maps/place/Telthusbakken',
         },
         {
             id: 'norwegian-maritime-museum',
@@ -1406,7 +1406,7 @@ export const CITIES: City[] = [
                 '계절마다 다른 매력으로 시민과 관광객을 맞이하는 스톡홀름의 문화 중심지이다.',
             ],
             tip: '스톡홀름의 계절감을 느끼기에 가장 좋은 장소입니다. 벚꽃 시즌에 방문한다면 인생 사진을 남길 수 있습니다.',
-            googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Kungsträdgården',
+            googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Kungstr%C3%A4dg%C3%A5rden+Scen',
         },
         {
             id: 'stortorget',
@@ -1654,7 +1654,7 @@ export const CITIES: City[] = [
                 '스톡홀름의 창의적인 공공 미술을 보여주는 숨겨진 명소이다.',
             ],
             tip: '대학교 캠퍼스 내부에 있으므로 조용히 방문해야 합니다. 사진 한 장으로 강렬한 인상을 남길 수 있는 곳입니다.',
-            googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Bibliotek+i+marken+Stockholm',
+            googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Swedish+Defence+University+Stockholm',
         },
         {
             id: 'hogalid-church',
@@ -1787,7 +1787,7 @@ export const CITIES: City[] = [
                 '스웨덴 사람들의 활동적이고 자연 친화적인 라이프스타일인 "프릴룹슬리브(friluftsliv)"를 직접 경험할 수 있는 곳이다.',
             ],
             tip: '스톡홀름에서 현지인처럼 하루를 보내고 싶다면 강력 추천합니다. 사우나 체험을 위해 수건과 수영복을 챙겨가세요.',
-            googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Hellasgården',
+            googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Hellasgården+Bastu',
         },
         {
             id: 'rosendals-tradgard',
